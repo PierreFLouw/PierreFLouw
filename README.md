@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pierre
 - 👀 I’m interested in all aspects of computer science
-- 🌱 I’m currently studying towards my MSc Compputer Science
+- 🌱 I have my Masters Degree in Computer Science with a big focus on cyberseurity
 - 💞️ I’m looking to collaborate on all topics Cyber Security
 - 📫 How to reach me plouw@commvault.com
 
